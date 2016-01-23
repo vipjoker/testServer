@@ -15,7 +15,6 @@ import java.util.List;
 
 @Path("user")
 public class ActivityController {
-    ActivityResourceStub activityResource = new ActivityResourceStub();
 
     @GET
     public String getActivities(@PathParam("user") String user) {
