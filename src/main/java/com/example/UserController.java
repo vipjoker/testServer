@@ -31,7 +31,7 @@ public class UserController {
                 new User("Ivan","Ivanov" ,4),
                 new User("Ivan","Ivanov" ,5)
                 ));
-
+//https://xakep.ru/category/linuxoid/
         return userList;
     }
 }
